@@ -62,7 +62,7 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/jabajasphin/mobilerobot-openloopcontrol/main/img/robomaster.png)](https://www.youtube.com/watch?v=dH8hXgzS__Y)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dH8hXgzS__Y/0.jpg)](https://www.youtube.com/watch?v=dH8hXgzS__Y)
 
 <br/>
 <br/>
