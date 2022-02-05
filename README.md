@@ -61,7 +61,9 @@ Insert image here
 <br/>
 
 ## MobileRobot Movement Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dH8hXgzS__Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/jabajasphin/mobilerobot-openloopcontrol/main/img/robomaster.png)](https://www.youtube.com/watch?v=dH8hXgzS__Y)
+
 <br/>
 <br/>
 <br/>
